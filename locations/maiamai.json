@@ -498,7 +498,8 @@
             "access_rules": [
               //"{}",
               "merge, crack_graveyard",
-              "not_cracksanity, merge, quake, crack_graveyard_lorule"
+              "not_cracksanity, merge, quake, bombs, $access_lorule_graveyard",
+              "[lampless], not_cracksanity, merge, quake, bombs, $lampless_access_lorule_graveyard"
             ],
             "visibility_rules": [
               "maiamai_map"
