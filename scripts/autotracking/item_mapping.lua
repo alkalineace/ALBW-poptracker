@@ -27,7 +27,6 @@ ITEM_MAPPING = {
     [BASE + 23] = {"great_spin", "toggle"},
     [BASE + 24] = {"quake", "toggle"},
     [BASE + 31] = {"maiamai", "consumable"},
-    [BASE + 32] = {"quake", "toggle"},
     [BASE + 37] = {"bottle", "toggle"},
     [BASE + 38] = {"p_lamp", "progressive"},
     [BASE + 39] = {"p_sword", "progressive"},

@@ -302,7 +302,8 @@
                 "name": "Cave",
                 //"capture_item": true,
                 "access_rules": [
-                  "merge, not_cracksanity, quake",
+                  "[lampless], merge, not_cracksanity, quake, bombs, $lampless_access_lorule_graveyard",
+                  "merge, not_cracksanity, quake, bombs, $access_lorule_graveyard",
                   "merge, quake, crack_graveyard_lorule"
                 ],
                 "item_count": 1
